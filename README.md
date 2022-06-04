@@ -14,3 +14,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+不太准..
+
+[![GitHub stats](https://github-readme-stats.vercel.app/api?username=lzfee0227&count_private=true&show_icons=true&theme=dark)](https://lzfee0227.github.io)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lzfee0227&count_private=true&show_icons=true&theme=dark&layout=compact)](https://lzfee0227.github.io)
+
+[![github-contributions-calendar](https://readme.app.surmon.me/api/render?template_id=github-contributions-calendar&props.username=lzfee0227&props.animation=true)](https://lzfee0227.github.io)
